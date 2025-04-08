@@ -1,10 +1,10 @@
 export const firebaseConfig = {
-    apiKey: "AIzaSyBlfU9yEcQbCT4JUAyO6qqIxQgkPlkVf7Q",
-    authDomain: "aniriot-ba920.firebaseapp.com",
-    databaseURl: "https://aniriot-ba920-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "aniriot-ba920",
-    storageBucket: "aniriot-ba920.appspot.com",
-    messagingSenderId: "71732724992",
-    appId: "1:71732724992:web:71d1637f5fba328b325fe5",
-    measurementId: "G-9Z49LD52H3"
+  apiKey: "AIzaSyBMlfbpd94E3SRIpDzD1t1de_Ks1HDbRAw",
+  authDomain: "chat-app--world-chat.firebaseapp.com",
+  databaseURL: "https://chat-app--world-chat-default-rtdb.firebaseio.com",
+  projectId: "chat-app--world-chat",
+  storageBucket: "chat-app--world-chat.appspot.com",
+  messagingSenderId: "872704705411",
+  appId: "1:872704705411:web:133204b073a77b91dd2cb6",
+  measurementId: "G-KBMRYFKG3G"
   };
